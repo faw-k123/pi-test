@@ -1,0 +1,7 @@
+source_url: https://github.com/anthropics/skills
+source_path: skills/pptx
+source_branch: main
+source_commit: 2c5958ecac7cee2b583967a2c4981d0f4a75c579
+commit_date: 2026-11-06 14:32:28 -0800
+commit_message: Move Office skills to the Apache 2.0 license (#2146)
+installed_at: 2026-11-09T08:38:00Z
